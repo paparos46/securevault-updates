@@ -1,7 +1,7 @@
 {
-  "sha256": "28fa88640be1db8f010b0112ee4e8753ab8c625be69b9f3c30a472e735fe976a",
-  "signature": "jnCTuVzMoVvRyyTE+8MYYiuf9sZrRpf0mToxKoY4XoTBG9RK5lsIernM9/TEbEA7z6r0w6eIOsdp5LJF5+0PBw==",
-  "size": 28940288,
-  "url": "https://paparos46.github.io/securevault-updates/releases/0.16.1/SecureVault-Setup-0.16.1.exe",
-  "version": "0.16.1"
+  "sha256": "b90d663a5dd800883c18860cae87b83bc423f77f068de4f71a10f1d04ec9e489",
+  "signature": "hUBrwieyYq61HAYMqZdoEXRgr6aRIUgAC6aurfNvvr0RGpYck6o1SasQSVvaXDayBQfRp0Y3Xvg5LiqqjGW2DA==",
+  "size": 28943360,
+  "url": "https://paparos46.github.io/securevault-updates/releases/0.16.2/SecureVault-Setup-0.16.2.exe",
+  "version": "0.16.2"
 }
